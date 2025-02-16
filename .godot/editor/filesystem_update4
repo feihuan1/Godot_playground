@@ -1,0 +1,17 @@
+res://Main.tscn
+res://Ball.tscn
+res://box.tscn
+res://box.gd
+res://rotated.tscn
+res://scenes/rotated.tscn
+res://scenes/physics.tscn
+res://README.md
+res://scripts/rotated.gd
+res://scenes/Rotated.tscn
+res://scenes/ClickInstanceiate.tscn
+res://scripts/Rotated.gd
+res://scenes/Signal.tscn
+res://scenes/SignalPauseGame.tscn
+res://custom_signal.gd
+res://scenes/custom_signal.tscn
+res://scripts/custom_signal.gd

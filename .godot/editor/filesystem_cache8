@@ -1,0 +1,18 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1739683678
+::res://assets/::1739678077
+ballBlue_10.png::CompressedTexture2D::8698298520458212912::1722313634::1739671743::1::::<><>::
+Bouncy Platform Long.png::CompressedTexture2D::7895792475247486234::1722313634::1739671743::1::::<><>::
+Bouncy Platform Medium.png::CompressedTexture2D::3192301516354317244::1722313634::1739671743::1::::<><>::
+icon.svg::CompressedTexture2D::7951457360396824501::1722313634::1739678077::1::::<><>::
+::res://scenes/::1739683678
+Ball.tscn::PackedScene::8064037037699315273::1739675336::0::1::::<><>::uid://dv6rx85s1gy3i::::res://assets/ballBlue_10.png
+ClickInstanceiate.tscn::PackedScene::2580185021150866616::1739683678::0::1::::<><>::res://scripts/click_Instanceiate.gd<>uid://dm5jrnxmxnuof::::res://scenes/Ball.tscn<>uid://dkq1swbmmxmbq::::res://assets/Bouncy Platform Long.png<>uid://d3gsjd5j3vhqr::::res://scenes/Rotated.tscn
+custom_signal.tscn::PackedScene::3448554676638318554::1739683664::0::1::::<><>::res://custom_signal.gd
+Rotated.tscn::PackedScene::9138045121844862165::1739681356::0::1::::<><>::uid://dlj0lug17ph0p::::res://assets/icon.svg<>res://scripts/Rotated.gd
+SignalPauseGame.tscn::PackedScene::6251259570666710311::1739682906::0::1::::<><>::uid://d3gsjd5j3vhqr::::res://scenes/Rotated.tscn
+::res://scripts/::1739683678
+click_Instanceiate.gd::GDScript::-1::1722313634::0::1::::<>Node<>::
+custom_signal.gd::GDScript::-1::1739683654::0::1::::<>Node2D<>::
+README.md::TextFile::-1::1739682664::0::1::::<><>::
+Rotated.gd::GDScript::-1::1739683021::0::1::::<>Sprite2D<>::

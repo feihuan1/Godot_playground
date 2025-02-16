@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://bpergrt7l4uyc"]
+
+[ext_resource type="Script" path="res://scripts/custom_signal.gd" id="1_cq2qh"]
+
+[node name="Node2D" type="Node2D"]
+script = ExtResource("1_cq2qh")
+
+[connection signal="health_changed" from="." to="." method="_on_health_changed"]
